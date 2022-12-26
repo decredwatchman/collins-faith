@@ -334,6 +334,10 @@
      padding-right: 375px;
      padding-left: 375px;
    }
+   .links{
+    text-decoration: none;
+    color: #0082f3;
+   }
    
    .link-block-2 {
      display: -webkit-box;
